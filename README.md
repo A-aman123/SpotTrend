@@ -87,6 +87,6 @@ The script will load the dataset, preprocess it, train a Random Forest Regressor
 - Improve hyperparameter tuning with techniques like RandomizedSearchCV.
 
 ## **Author**
-- **Aman Shrivastva** - Full-Stack Developer, Writer, and Data Enthusiast
+- **Aman Shrivastva** - ML Egnineer and Data Scientist
 
 
